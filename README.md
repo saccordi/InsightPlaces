@@ -1,5 +1,5 @@
 
-# **Bem-vindo(a) ao meu notebook!**
+# **Bem-vindo(a) ao meu projeto de DataScience!**
 
 Este é um repositório com um projeto criado em um Alura Challanges e tem como objetivo ajudar uma imobiliária fictícia com um problema de mercado. Essa imobiliária, que será chamda de *InsightPlaces*, fica situada na cidade do Rio de Janeiro e está enfrentando dificuldades para alugar e vender imóveis. Em uma pesquisa em que mostra como empresas semelhantes operam no mercado, a *InsightPlaces* percebeu que essa questão pode estar relacionada aos valores dos imóveis e às recomendações que faz.
 
